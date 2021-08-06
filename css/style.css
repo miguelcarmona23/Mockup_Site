@@ -1949,6 +1949,18 @@ a:focus {
     background: #fdbe33;
 }
 
+@media (max-width: 900px) {
+    .portfolio .portfolio-overlay p {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 400px) {
+    .portfolio .portfolio-overlay p {
+       font-size: 13px;
+    }
+}
+
 
 /*******************************/
 /********* Contact CSS *********/
