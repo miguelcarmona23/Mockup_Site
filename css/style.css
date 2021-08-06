@@ -150,6 +150,12 @@ a:focus {
     }
 }
 
+@media (max-width: 400px) {
+    .top-bar .logo h1 {
+        font-size: 20px;
+    }
+}
+
 
 /**********************************/
 /*********** Nav Bar CSS **********/
@@ -710,6 +716,17 @@ a:focus {
     color: #fdbe33;
 }
 
+@media (max-width: 400px) {
+    .fact .col-6 {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-wrap: nowrap;
+       flex-direction: column;
+       max-width: 100%;
+    }
+}
+
 
 /*******************************/
 /********* Service CSS *********/
@@ -803,6 +820,17 @@ a:focus {
     color: #ffffff;
 }
 
+@media (max-width: 900px) {
+    .service .service-overlay p {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 400px) {
+    .service .service-overlay p {
+       font-size: 13px;
+    }
+}
 
 /*******************************/
 /********** Video CSS **********/
