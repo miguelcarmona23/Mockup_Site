@@ -2,7 +2,7 @@
 
 This is a asphalt company website that will display my skills in HTMl, CSS, Javascript, and responsive design.
 
-![Asphalt Company Website Landing Page Photo](/images/project_thumbnail.png)
+![Asphalt Company Website Landing Page Photo](project_thumbnail.png)
 
 [Live](https://ps-asphaltpaving.netlify.app/)
 
